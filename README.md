@@ -8,5 +8,17 @@ I was able to get the model to predict the heart disease with 84.5% accuracy aft
 
 
 
-# [Project 2: Data Science Bulldozers Sale Price Prediction](https://github.com/dreeeamcatcher/portfolio/blob/master/images/feature_importance.png)
+# [Project 2: Data Science Bulldozers Sale Price Prediction](https://github.com/dreeeamcatcher/bulldozers_price_prediction)
 
+This project was based on the [Kaggle competition](https://www.kaggle.com/c/bluebook-for-bulldozers/overview). The goal of the contest was to predict the sale price of a particular piece of heavy equiment at auction based on it's usage, equipment type, and configuaration. And I tried to use it as a real case example. 
+
+The evaluation metric for this competition was the RMSLE (root mean squared log error) between the actual and predicted auction prices. So my goal was to built machine learning model which minimises RMSLE.
+
+During this project I performed: 
+* EDA
+* Filling missing values
+* Data transformation
+* Tuning hyperparameters
+* Calculating feature importance
+
+![](https://github.com/dreeeamcatcher/portfolio/blob/master/images/feature_importance.png)
