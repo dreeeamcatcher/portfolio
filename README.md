@@ -4,7 +4,7 @@ For this example project I built a heart disease classifier to identify whether 
 
 I was able to get the model to predict the heart disease with 84.5% accuracy after minimal tuning with `RandomSearchCV` and `GridSearchCV`. It is using only 303 samples in our dataset. To get these results I used **Logistick Regression**, **KNN** and **Random Forest** models.
 
-![](https://github.com/dreeeamcatcher/portfolio/blob/master/images/cv_scores.png)
+![cv_scores](https://github.com/dreeeamcatcher/portfolio/blob/master/images/cv_scores.png)
 
 
 
@@ -21,4 +21,4 @@ During this project I performed:
 * Tuning hyperparameters
 * Calculating feature importance
 
-![](https://github.com/dreeeamcatcher/portfolio/blob/master/images/feature_importance.png)
+![features_importance](https://github.com/dreeeamcatcher/portfolio/blob/master/images/feature_importance.png)
