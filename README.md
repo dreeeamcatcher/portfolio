@@ -31,6 +31,7 @@ This project was based on the [Kaggle competition](https://www.kaggle.com/c/dog-
 
 I used **MobiNetV2** model from TensorFlow Hub as a base and modified it to predict 120 different dog breeds.
 
-After training the model I was able to get right predicts for 4 out of 5 my own images.
-
+From experimenting part:
 ![experimental_prediction](/images/border_collie.png)
+
+After training the model I was able to get right predicts for 4 out of 5 my own images.
