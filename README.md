@@ -35,4 +35,4 @@ One of the experimentation steps:
 
 ![experimental_prediction](/images/border_collie.png)
 
-After training the model I was able to get right predicts for 4 out of 5 my own images.
+After training the model I was able to get the right predictions for 4 out of 5 my own images.
