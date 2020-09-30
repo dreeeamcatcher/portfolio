@@ -33,4 +33,4 @@ I used **MobiNetV2** model from TensorFlow Hub as a base and modified it to pred
 
 After training the model I was able to get right predicts for 4 out of 5 my own images.
 
-![experimental_prediction](/images/border collie.png)
+![experimental_prediction](/images/border_collie.png)
